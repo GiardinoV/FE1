@@ -1,0 +1,55 @@
+#header {
+    background-color: #f8f6f6;
+}
+
+#foto-lisa {
+    width: 125px;
+    padding-left: 40%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 35px;
+    margin-bottom: 65px;
+    margin-top: 0px;
+}
+
+.fondo-gris{
+    background-color: #C4C4C4;
+    width: 700px;
+    margin-left: 24%;
+    color: #005677;
+    font-size: 20px;
+}
+
+.centrar {
+    margin-left: 24%;
+    color: black;
+    font-size: 15px;
+}
+
+span {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#footer {
+    background-color: #005677;
+    margin-top: 5%;
+}
+
+#texto-footer {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    right: 50%;
+    top: 98%;
+}
+
+div {
+    margin-left: 51%;
+}
