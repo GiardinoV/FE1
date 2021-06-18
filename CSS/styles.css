@@ -1,27 +1,33 @@
-#header {
-    background-color: #f8f6f6;
+body {
+    background-image: linear-gradient(rgb(184, 115, 184), white);
+}
+header {
+    background-image: url('../IMG/imgHeader.jpg');
+    background-size:cover;
 }
 
 #foto-lisa {
     width: 125px;
     padding-left: 40%;
+    margin-top: 4px;
 }
 
 h1 {
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    background-color: #C4C4C4;
-    color: #005677;
+    font-family: 'Viaoda Libre', cursive;
+    background-color: #c293b8;
+    color: #f0f4f5;
     font-size: 35px;
     margin-bottom: 65px;
     margin-top: 0px;
 }
 
 .fondo-gris{
-    background-color: #C4C4C4;
+    font-family: 'Viaoda Libre', cursive;
+    background-color: #c293b8;
     width: 700px;
     margin-left: 24%;
-    color: #005677;
+    color: #f0f4f5;
     font-size: 20px;
 }
 
@@ -37,7 +43,7 @@ span {
 }
 
 #footer {
-    background-color: #005677;
+    background-color: #742f65;
     margin-top: 5%;
 }
 
@@ -47,9 +53,32 @@ span {
     font-weight: bold;
     position: absolute;
     right: 50%;
-    top: 98%;
+    top: 113%;
 }
 
 div {
     margin-left: 51%;
+    color: white;
+}
+
+#sobreMi {
+    font-family: 'Viaoda Libre', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+#headerSobreMi {
+    background-color: violet;
+}
+
+#sectionSobreMi {
+    background-color: rgba(221, 176, 221, 0.5);
+    font-family: 'Viaoda Libre', cursive;
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    border-style: inset;
+    border-color: rgb(219, 113, 219);
 }
